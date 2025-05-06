@@ -13,4 +13,4 @@ How to Run the Code
 3. Execute the Code: Run the Python code blocks in a Jupyter Notebook (from Google Colab) or a similar environment. The code performs data cleaning, exploratory analysis, model training, and evaluation.
 4. Interpret Results: Analyze the generated visualizations, model performance metrics, and feature importances to gain insights into San Francisco's rental market trends.
 
-Google Doc for Presentation: https://docs.google.com/presentation/d/16u5aS-wXF_4LMRcbMaler-4i80XG81FnjfntioHUIDc/edit?usp=sharing
+Google Slides Presentation Link: https://docs.google.com/presentation/d/16u5aS-wXF_4LMRcbMaler-4i80XG81FnjfntioHUIDc/edit?usp=sharing
