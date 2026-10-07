@@ -1,5 +1,9 @@
 # San Francisco Rent Analysis
-This project is for my CS133 Introduction to Data Visualization class. We chose to perform data analysis and machine learning techqniues on the San Franciso Rent Board Housing Inventory by Data SF (https://datasf.org/opendata/ & https://data.sfgov.org/Housing-and-Buildings/Rent-Board-Housing-Inventory/gdc7-dmcn/about_data) . 
+This project is for my CS133 Introduction to Data Visualization class. We chose to perform data analysis and machine learning techqniues on the San Franciso Rent Board Housing Inventory by Data SF (https://datasf.org/opendata/ & https://data.sfgov.org/Housing-and-Buildings/Rent-Board-Housing-Inventory/gdc7-dmcn/about_data).
+
+From a business and policy perspective, the project addresses the challenge of turning a large housing dataset into useful information for understanding rental market patterns and property characteristics. A potential stakeholder could be a housing policy analyst, city planning department, real estate analyst, or housing organization interested in understanding how different property features relate to rental housing conditions in San Francisco. The problem we were solving was how to identify meaningful trends in the data and determine which features were most useful for explaining or predicting rental-related outcomes.
+
+The analysis supports decisions about which housing characteristics deserve the most attention when evaluating rental market conditions, identifying patterns across properties, or prioritizing further analysis. By combining visualizations with machine learning models and feature importance analysis, the project helps stakeholders move beyond raw housing records and identify factors that may be useful for policy analysis, market research, or housing-related decision-making. The broader takeaway is that public housing data can be transformed into actionable insights that help organizations better understand the structure and trends of the San Francisco rental market.
 
 Project Members: Charlene Khun, Helena Thiessen, Benny Chen, and Rongjie Mai
 
